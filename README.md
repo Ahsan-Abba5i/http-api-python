@@ -1,5 +1,3 @@
-# http-api-python
-
 # Server-side Encryption HTTP API
 
 This is a Server-side Encryption HTTP API that saves and retrieves encrypted data. The API uses Flask for HTTP operations, SQLAlchemy for database interactions, and the cryptography library for cryptographic operations.
