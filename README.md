@@ -30,9 +30,11 @@ cd your-repo
 ```
 2. Build the Docker image:
 ```bash
-docker build -t server-side-encryption-api .
+sudo docker build -t server-side-encryption-api .
 ```
 3. Run the Docker container:
 ```bash
-docker run -p 4000:80 server-side-encryption-api
+sudo docker run -p 4000:80 server-side-encryption-api
 ```
+ Open your web browser and navigate to [http://127.0.0.1:4000](http://127.0.0.1:4000) to access the API.
+   (Note: Ensure that the Flask app is running and check the terminal for any additional instructions or messages.)
