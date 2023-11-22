@@ -24,7 +24,7 @@ Additionally, the code incorporates the following cryptographic techniques:
 
 ```bash
 git clone https://github.com/Ahsan-Abba5i/http-api-python.git
-cd your-repo
+cd http-api-python
 ```
 2. Build the Docker image:
 ```bash
