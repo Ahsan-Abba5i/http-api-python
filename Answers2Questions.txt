@@ -1,5 +1,4 @@
-Answers to Questions
-What other options could you use for server-side encryption?
+**What other options could you use for server-side encryption?**
 Homomorphic Encryption: Enables computation on encrypted data without decrypting it.
 Proxy Re-encryption: Allows a proxy to transform ciphertext from one key to another without accessing the plaintext.
 What other improvements do you think would be interesting to add to the project?
